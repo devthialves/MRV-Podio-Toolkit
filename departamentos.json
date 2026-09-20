@@ -1,0 +1,4646 @@
+{
+  "MRVHBA3022": {
+    "diretoria": "ADM e CSC",
+    "empresa": "MRV"
+  },
+  "MRVHBA3023": {
+    "diretoria": "ADM e CSC",
+    "empresa": "MRV"
+  },
+  "MRVHBH1021": {
+    "diretoria": "ADM e CSC",
+    "empresa": "MRV"
+  },
+  "MRVHBH1022": {
+    "diretoria": "ADM e CSC",
+    "empresa": "MRV"
+  },
+  "MRVHBH3005": {
+    "diretoria": "ADM e CSC",
+    "empresa": "MRV"
+  },
+  "MRVHBH3014": {
+    "diretoria": "ADM e CSC",
+    "empresa": "MRV"
+  },
+  "MRVHBH3016": {
+    "diretoria": "ADM e CSC",
+    "empresa": "MRV"
+  },
+  "MRVHBH3021": {
+    "diretoria": "ADM e CSC",
+    "empresa": "MRV"
+  },
+  "MRVHBH3023": {
+    "diretoria": "ADM e CSC",
+    "empresa": "MRV"
+  },
+  "MRVHBH3024": {
+    "diretoria": "ADM e CSC",
+    "empresa": "LOG"
+  },
+  "MRVHBH3025": {
+    "diretoria": "ADM e CSC",
+    "empresa": "MRV"
+  },
+  "MRVHBH3028": {
+    "diretoria": "ADM e CSC",
+    "empresa": "MRV"
+  },
+  "MRVHBH3155": {
+    "diretoria": "ADM e CSC",
+    "empresa": "MRV"
+  },
+  "MRVHBH3221": {
+    "diretoria": "ADM e CSC",
+    "empresa": "MRV"
+  },
+  "MRVHBH3248": {
+    "diretoria": "ADM e CSC",
+    "empresa": "MRV"
+  },
+  "MRVHBH3270": {
+    "diretoria": "ADM e CSC",
+    "empresa": "MRV"
+  },
+  "MRVHBH3271": {
+    "diretoria": "ADM e CSC",
+    "empresa": "MRV"
+  },
+  "MRVHBH3352": {
+    "diretoria": "ADM e CSC",
+    "empresa": "MRV"
+  },
+  "MRVHBH3403": {
+    "diretoria": "ADM e CSC",
+    "empresa": "MRV"
+  },
+  "MRVHBH3529": {
+    "diretoria": "ADM e CSC",
+    "empresa": "MRV"
+  },
+  "MRVHCE3022": {
+    "diretoria": "ADM e CSC",
+    "empresa": "MRV"
+  },
+  "MRVHCP3022": {
+    "diretoria": "ADM e CSC",
+    "empresa": "MRV"
+  },
+  "MRVHCP3023": {
+    "diretoria": "ADM e CSC",
+    "empresa": "MRV"
+  },
+  "MRVHCR3022": {
+    "diretoria": "ADM e CSC",
+    "empresa": "MRV"
+  },
+  "MRVHCR3023": {
+    "diretoria": "ADM e CSC",
+    "empresa": "MRV"
+  },
+  "MRVHCR3025": {
+    "diretoria": "ADM e CSC",
+    "empresa": "MRV"
+  },
+  "MRVHRP3023": {
+    "diretoria": "ADM e CSC",
+    "empresa": "MRV"
+  },
+  "MRVHRS3139": {
+    "diretoria": "ADM e CSC",
+    "empresa": "MRV"
+  },
+  "MRVHSP3022": {
+    "diretoria": "ADM e CSC",
+    "empresa": "MRV"
+  },
+  "MRVHSP3023": {
+    "diretoria": "ADM e CSC",
+    "empresa": "MRV"
+  },
+  "MRVHSP3025": {
+    "diretoria": "ADM e CSC",
+    "empresa": "MRV"
+  },
+  "MRVHTM3023": {
+    "diretoria": "ADM e CSC",
+    "empresa": "MRV"
+  },
+  "MRVHAL3043": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHAL3101": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHAL3327": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHAL3337": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHBA3043": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHBA3101": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHBA3179": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHBA3327": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHBH1101": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHBH3043": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHBH3049": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHBH3102": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHBH3103": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHBH3115": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHBH3172": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHBH3179": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHBH3184": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHBH3190": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHBH3227": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHBH3256": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHBH3257": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHBH3327": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHBH3337": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHBH3347": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHBH3371": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHBH3413": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHBH3437": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHBH3442": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHBH3463": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHBR3043": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHBR3101": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHBR3327": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHCB3043": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHCB3327": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHCE3043": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHCE3101": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHCE3257": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHCE3327": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHCP3043": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHCP3049": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHCP3101": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHCP3179": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHCP3257": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHCP3327": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHCR3043": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHCR3101": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHCR3257": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHCR3327": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHDF1041": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHDF3043": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHDF3101": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHDF3327": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHGO3043": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHGO3101": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHGO3257": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHGO3327": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHJP3043": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHJP3101": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHJP3257": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHJP3327": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHLD3043": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHLD3101": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHLD3257": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHLD3327": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHMA3101": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHMN3043": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHMN3101": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHMN3327": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHMR3043": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHMR3101": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHMS1041": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHMS3101": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHMS3257": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHMS3327": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHMT3101": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHNF3101": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHPB3043": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHPB3101": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHPE3043": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHPE3101": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHPE3327": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHPI3043": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHPI3101": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHPI3327": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHPL1041": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHPL3101": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHPL3327": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHRE3101": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHRE3327": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHRJ3179": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHRJ3250": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHRJ3257": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHRJ3309": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHRJ3327": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHRJ3538": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHRN3044": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHRN3110": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHRN3327": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHRP3043": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHRP3101": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHRP3115": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHRP3179": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHRP3250": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHRP3257": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHRP3327": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHRS3043": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHRS3101": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHRS3179": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHRS3327": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHSC3043": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHSC3101": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHSC3327": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHSE3043": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHSE3101": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHSJ3043": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHSJ3101": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHSP3043": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHSP3101": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHSP3179": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHSP3257": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHSP3327": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHSP3528": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHSR3101": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHSR3257": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHSR3327": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHTM3043": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHTM3101": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHTM3327": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHUB3101": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHVC3043": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHVC3101": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHVL3101": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHVT3043": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHVT3101": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHVT3327": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "SA01BH3307": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "SA01BH3471": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "SA01BH3475": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "SA01BH3533": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "SA02CP3471": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "SA04MN3471": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "SA05RP3471": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "SA06BA3471": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "SA07RJ3471": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "SA08CR3471": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "SA14MI3471": {
+    "diretoria": "COMERCIAL",
+    "empresa": "MRV"
+  },
+  "MRVHBH3162": {
+    "diretoria": "PRESIDENTE",
+    "empresa": "MRV"
+  },
+  "MRVHAL3067": {
+    "diretoria": "DES. IMOBILIÁRIO",
+    "empresa": "MRV"
+  },
+  "MRVHBA1062": {
+    "diretoria": "DES. IMOBILIÁRIO",
+    "empresa": "MRV"
+  },
+  "MRVHBA3067": {
+    "diretoria": "DES. IMOBILIÁRIO",
+    "empresa": "MRV"
+  },
+  "MRVHBH1061": {
+    "diretoria": "DES. IMOBILIÁRIO",
+    "empresa": "MRV"
+  },
+  "MRVHBH1062": {
+    "diretoria": "DES. IMOBILIÁRIO",
+    "empresa": "MRV"
+  },
+  "MRVHBH3066": {
+    "diretoria": "DES. IMOBILIÁRIO",
+    "empresa": "MRV"
+  },
+  "MRVHBH3067": {
+    "diretoria": "DES. IMOBILIÁRIO",
+    "empresa": "MRV"
+  },
+  "MRVHBH3280": {
+    "diretoria": "DES. IMOBILIÁRIO",
+    "empresa": "MRV"
+  },
+  "MRVHBH3331": {
+    "diretoria": "DES. IMOBILIÁRIO",
+    "empresa": "MRV"
+  },
+  "MRVHBH3341": {
+    "diretoria": "DES. IMOBILIÁRIO",
+    "empresa": "MRV"
+  },
+  "MRVHBR3062": {
+    "diretoria": "DES. IMOBILIÁRIO",
+    "empresa": "MRV"
+  },
+  "MRVHCE3067": {
+    "diretoria": "DES. IMOBILIÁRIO",
+    "empresa": "MRV"
+  },
+  "MRVHCP3279": {
+    "diretoria": "DES. IMOBILIÁRIO",
+    "empresa": "MRV"
+  },
+  "MRVHCP3280": {
+    "diretoria": "DES. IMOBILIÁRIO",
+    "empresa": "MRV"
+  },
+  "MRVHCP3281": {
+    "diretoria": "DES. IMOBILIÁRIO",
+    "empresa": "MRV"
+  },
+  "MRVHCP3282": {
+    "diretoria": "DES. IMOBILIÁRIO",
+    "empresa": "MRV"
+  },
+  "MRVHCR1062": {
+    "diretoria": "DES. IMOBILIÁRIO",
+    "empresa": "MRV"
+  },
+  "MRVHCR3062": {
+    "diretoria": "DES. IMOBILIÁRIO",
+    "empresa": "MRV"
+  },
+  "MRVHCR3066": {
+    "diretoria": "DES. IMOBILIÁRIO",
+    "empresa": "MRV"
+  },
+  "MRVHDF3067": {
+    "diretoria": "DES. IMOBILIÁRIO",
+    "empresa": "MRV"
+  },
+  "MRVHJP3062": {
+    "diretoria": "DES. IMOBILIÁRIO",
+    "empresa": "MRV"
+  },
+  "MRVHLD3067": {
+    "diretoria": "DES. IMOBILIÁRIO",
+    "empresa": "MRV"
+  },
+  "MRVHMN3067": {
+    "diretoria": "DES. IMOBILIÁRIO",
+    "empresa": "MRV"
+  },
+  "MRVHMR3067": {
+    "diretoria": "DES. IMOBILIÁRIO",
+    "empresa": "MRV"
+  },
+  "MRVHNR3067": {
+    "diretoria": "DES. IMOBILIÁRIO",
+    "empresa": "MRV"
+  },
+  "MRVHPE3279": {
+    "diretoria": "DES. IMOBILIÁRIO",
+    "empresa": "MRV"
+  },
+  "MRVHPI3062": {
+    "diretoria": "DES. IMOBILIÁRIO",
+    "empresa": "MRV"
+  },
+  "MRVHRP1062": {
+    "diretoria": "DES. IMOBILIÁRIO",
+    "empresa": "MRV"
+  },
+  "MRVHRP3062": {
+    "diretoria": "DES. IMOBILIÁRIO",
+    "empresa": "MRV"
+  },
+  "MRVHRP3279": {
+    "diretoria": "DES. IMOBILIÁRIO",
+    "empresa": "MRV"
+  },
+  "MRVHRS3066": {
+    "diretoria": "DES. IMOBILIÁRIO",
+    "empresa": "MRV"
+  },
+  "MRVHSC3062": {
+    "diretoria": "DES. IMOBILIÁRIO",
+    "empresa": "MRV"
+  },
+  "MRVHSC3067": {
+    "diretoria": "DES. IMOBILIÁRIO",
+    "empresa": "MRV"
+  },
+  "MRVHSE3067": {
+    "diretoria": "DES. IMOBILIÁRIO",
+    "empresa": "MRV"
+  },
+  "MRVHSJ3062": {
+    "diretoria": "DES. IMOBILIÁRIO",
+    "empresa": "MRV"
+  },
+  "MRVHSJ3065": {
+    "diretoria": "DES. IMOBILIÁRIO",
+    "empresa": "MRV"
+  },
+  "MRVHSP3065": {
+    "diretoria": "DES. IMOBILIÁRIO",
+    "empresa": "MRV"
+  },
+  "MRVHSP3066": {
+    "diretoria": "DES. IMOBILIÁRIO",
+    "empresa": "MRV"
+  },
+  "MRVHSP3078": {
+    "diretoria": "DES. IMOBILIÁRIO",
+    "empresa": "MRV"
+  },
+  "MRVHSP3279": {
+    "diretoria": "DES. IMOBILIÁRIO",
+    "empresa": "MRV"
+  },
+  "MRVHSP3280": {
+    "diretoria": "DES. IMOBILIÁRIO",
+    "empresa": "MRV"
+  },
+  "MRVHSP3281": {
+    "diretoria": "DES. IMOBILIÁRIO",
+    "empresa": "MRV"
+  },
+  "MRVHTM3067": {
+    "diretoria": "DES. IMOBILIÁRIO",
+    "empresa": "MRV"
+  },
+  "MRVHVT3067": {
+    "diretoria": "DES. IMOBILIÁRIO",
+    "empresa": "MRV"
+  },
+  "MRVHBH1001": {
+    "diretoria": "FINANÇAS",
+    "empresa": "MRV"
+  },
+  "MRVHBH3001": {
+    "diretoria": "FINANÇAS",
+    "empresa": "MRV"
+  },
+  "MRVHBH3009": {
+    "diretoria": "FINANÇAS",
+    "empresa": "MRV"
+  },
+  "MRVHBH3013": {
+    "diretoria": "FINANÇAS",
+    "empresa": "MRV"
+  },
+  "MRVHBH3018": {
+    "diretoria": "FINANÇAS",
+    "empresa": "MRV"
+  },
+  "MRVHBH3019": {
+    "diretoria": "FINANÇAS",
+    "empresa": "MRV"
+  },
+  "MRVHBH3287": {
+    "diretoria": "FINANÇAS",
+    "empresa": "MRV"
+  },
+  "MRVHBH3354": {
+    "diretoria": "FINANÇAS",
+    "empresa": "MRV"
+  },
+  "INSTBH3230": {
+    "diretoria": "INSTITUTO",
+    "empresa": "INSTITUTO"
+  },
+  "MRVHBA3375": {
+    "diretoria": "JURÍDICA",
+    "empresa": "MRV"
+  },
+  "MRVHBA3394": {
+    "diretoria": "JURÍDICA",
+    "empresa": "MRV"
+  },
+  "MRVHBA3420": {
+    "diretoria": "JURÍDICA",
+    "empresa": "MRV"
+  },
+  "MRVHBH3004": {
+    "diretoria": "JURÍDICA",
+    "empresa": "MRV"
+  },
+  "MRVHBH3373": {
+    "diretoria": "JURÍDICA",
+    "empresa": "MRV"
+  },
+  "MRVHBH3374": {
+    "diretoria": "JURÍDICA",
+    "empresa": "MRV"
+  },
+  "MRVHBH3375": {
+    "diretoria": "JURÍDICA",
+    "empresa": "MRV"
+  },
+  "MRVHBH3394": {
+    "diretoria": "JURÍDICA",
+    "empresa": "MRV"
+  },
+  "MRVHBH3420": {
+    "diretoria": "JURÍDICA",
+    "empresa": "MRV"
+  },
+  "MRVHBH3423": {
+    "diretoria": "JURÍDICA",
+    "empresa": "MRV"
+  },
+  "MRVHBH3424": {
+    "diretoria": "JURÍDICA",
+    "empresa": "MRV"
+  },
+  "MRVHCR3420": {
+    "diretoria": "JURÍDICA",
+    "empresa": "MRV"
+  },
+  "MRVHRP3374": {
+    "diretoria": "JURÍDICA",
+    "empresa": "MRV"
+  },
+  "MRVHRP3394": {
+    "diretoria": "JURÍDICA",
+    "empresa": "MRV"
+  },
+  "MRVHRP3423": {
+    "diretoria": "JURÍDICA",
+    "empresa": "MRV"
+  },
+  "MRVHSP3375": {
+    "diretoria": "JURÍDICA",
+    "empresa": "MRV"
+  },
+  "MRVHSP3394": {
+    "diretoria": "JURÍDICA",
+    "empresa": "MRV"
+  },
+  "MRVHTM3394": {
+    "diretoria": "JURÍDICA",
+    "empresa": "MRV"
+  },
+  "E237SPEZ01": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "E249SPFI32": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "E644SMFB96": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "E648MSFC26": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "E649SF3408": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "E649SFFC20": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "E664SCFI94": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "E667CBFI95": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "E675GTFK66": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "E679ITFM02": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "E689GOFN35": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "E694SBFO54": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "E698CRFT81": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "E699PEFT75": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "E702PBFY60": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "E703SFGD41": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "E704ESGD24": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "K012CGDZ15": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "K014BH3002": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "K014BH3225": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "K014BH3273": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "K014BH3476": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "K014BH3481": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "K014BH3540": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "K015ES3225": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "K016SP3225": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "K017BHEK63": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "K019GOEM66": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "K021RSEN87": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "K031CE3225": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "K032GO3225": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "K033PE3225": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "K034BH3102": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "LE02BHFI87": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "MLOGBH0001": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "MLOGBH0002": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "MLOGBH1001": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "MLOGBH2081": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "MLOGBH2082": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "MLOGBH3001": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "MLOGBH3002": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "MLOGBH3004": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "MLOGBH3013": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "MLOGBH3018": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "MLOGBH3019": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "MLOGBH3081": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "MLOGBH3082": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "MLOGBH3083": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "MLOGBH3085": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "MLOGBH3091": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "MLOGBH3096": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "MLOGBH3098": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "MLOGBH3102": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "MLOGBH3104": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "MLOGBH3175": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "MLOGBH3178": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "MLOGBH3228": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "MLOGBH3273": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "MLOGBH3298": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "MLOGBH3396": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "MLOGBH3397": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "MLOGBH3406": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "MLOGBH3408": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "MLOGBH3425": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "MLOGBH3468": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "MLOGBH3478": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "MLOGBH3479": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "MLOGBH3480": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "MLOGBH3502": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "MLOGBH3517": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "MLOGBH3520": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "MLOGBH3536": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "MLOGCE3085": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "MLOGCE3408": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "MLOGCP3023": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "MLOGCP3091": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "MLOGCP3104": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "MLOGCP3406": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "MLOGCR3406": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "MLOGGO3104": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "MLOGPE3104": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "MLOGPE3406": {
+    "diretoria": "LOG",
+    "empresa": "LOG"
+  },
+  "E338RJFI48": {
+    "diretoria": "LUGGO",
+    "empresa": "LUGGO"
+  },
+  "E631BHEQ08": {
+    "diretoria": "LUGGO",
+    "empresa": "LUGGO"
+  },
+  "LU00BH3102": {
+    "diretoria": "LUGGO",
+    "empresa": "LUGGO"
+  },
+  "LU00BH3244": {
+    "diretoria": "LUGGO",
+    "empresa": "LUGGO"
+  },
+  "LU00BH3252": {
+    "diretoria": "LUGGO",
+    "empresa": "LUGGO"
+  },
+  "LU00BH3253": {
+    "diretoria": "LUGGO",
+    "empresa": "LUGGO"
+  },
+  "LU00BH3351": {
+    "diretoria": "LUGGO",
+    "empresa": "LUGGO"
+  },
+  "LU00BH3439": {
+    "diretoria": "LUGGO",
+    "empresa": "LUGGO"
+  },
+  "LU00BH3472": {
+    "diretoria": "LUGGO",
+    "empresa": "LUGGO"
+  },
+  "LU00BH3474": {
+    "diretoria": "LUGGO",
+    "empresa": "LUGGO"
+  },
+  "LU00BH3484": {
+    "diretoria": "LUGGO",
+    "empresa": "LUGGO"
+  },
+  "LU00BH3486": {
+    "diretoria": "LUGGO",
+    "empresa": "LUGGO"
+  },
+  "LU01BH3323": {
+    "diretoria": "LUGGO",
+    "empresa": "LUGGO"
+  },
+  "LU02CR3323": {
+    "diretoria": "LUGGO",
+    "empresa": "LUGGO"
+  },
+  "LU04BH3323": {
+    "diretoria": "LUGGO",
+    "empresa": "LUGGO"
+  },
+  "LU05CP3323": {
+    "diretoria": "LUGGO",
+    "empresa": "LUGGO"
+  },
+  "LU07BA3323": {
+    "diretoria": "LUGGO",
+    "empresa": "LUGGO"
+  },
+  "LU09RSED70": {
+    "diretoria": "LUGGO",
+    "empresa": "LUGGO"
+  },
+  "LU10CP3323": {
+    "diretoria": "LUGGO",
+    "empresa": "LUGGO"
+  },
+  "LU11SP3323": {
+    "diretoria": "LUGGO",
+    "empresa": "LUGGO"
+  },
+  "LU12RS3323": {
+    "diretoria": "LUGGO",
+    "empresa": "LUGGO"
+  },
+  "LU13DF3323": {
+    "diretoria": "LUGGO",
+    "empresa": "LUGGO"
+  },
+  "LU27RJ3323": {
+    "diretoria": "LUGGO",
+    "empresa": "LUGGO"
+  },
+  "RE30RSFO51": {
+    "diretoria": "LUGGO",
+    "empresa": "LUGGO"
+  },
+  "BLASBH2082": {
+    "diretoria": "MRL",
+    "empresa": "MRL"
+  },
+  "BLASBH3047": {
+    "diretoria": "MRL",
+    "empresa": "MRL"
+  },
+  "BLASBH3096": {
+    "diretoria": "MRL",
+    "empresa": "MRL"
+  },
+  "BLASBH3394": {
+    "diretoria": "MRL",
+    "empresa": "MRL"
+  },
+  "BLASCG3080": {
+    "diretoria": "MRL",
+    "empresa": "MRL"
+  },
+  "BLASCG3091": {
+    "diretoria": "MRL",
+    "empresa": "MRL"
+  },
+  "BLASCG3156": {
+    "diretoria": "MRL",
+    "empresa": "MRL"
+  },
+  "BLASCG3161": {
+    "diretoria": "MRL",
+    "empresa": "MRL"
+  },
+  "BLASCG3192": {
+    "diretoria": "MRL",
+    "empresa": "MRL"
+  },
+  "BLASCI3043": {
+    "diretoria": "MRL",
+    "empresa": "MRL"
+  },
+  "BLASJF3043": {
+    "diretoria": "MRL",
+    "empresa": "MRL"
+  },
+  "BLASJF3091": {
+    "diretoria": "MRL",
+    "empresa": "MRL"
+  },
+  "BLASJF3156": {
+    "diretoria": "MRL",
+    "empresa": "MRL"
+  },
+  "BLASJF3192": {
+    "diretoria": "MRL",
+    "empresa": "MRL"
+  },
+  "BLASMA3043": {
+    "diretoria": "MRL",
+    "empresa": "MRL"
+  },
+  "BLASMA3062": {
+    "diretoria": "MRL",
+    "empresa": "MRL"
+  },
+  "BLASMA3091": {
+    "diretoria": "MRL",
+    "empresa": "MRL"
+  },
+  "BLASMA3156": {
+    "diretoria": "MRL",
+    "empresa": "MRL"
+  },
+  "BLASRE3156": {
+    "diretoria": "MRL",
+    "empresa": "MRL"
+  },
+  "BLASRJ3022": {
+    "diretoria": "MRL",
+    "empresa": "MRL"
+  },
+  "BLASRJ3023": {
+    "diretoria": "MRL",
+    "empresa": "MRL"
+  },
+  "BLASRJ3024": {
+    "diretoria": "MRL",
+    "empresa": "MRL"
+  },
+  "BLASRJ3043": {
+    "diretoria": "MRL",
+    "empresa": "MRL"
+  },
+  "BLASRJ3065": {
+    "diretoria": "MRL",
+    "empresa": "MRL"
+  },
+  "BLASRJ3066": {
+    "diretoria": "MRL",
+    "empresa": "MRL"
+  },
+  "BLASRJ3080": {
+    "diretoria": "MRL",
+    "empresa": "MRL"
+  },
+  "BLASRJ3086": {
+    "diretoria": "MRL",
+    "empresa": "MRL"
+  },
+  "BLASRJ3089": {
+    "diretoria": "MRL",
+    "empresa": "MRL"
+  },
+  "BLASRJ3091": {
+    "diretoria": "MRL",
+    "empresa": "MRL"
+  },
+  "BLASRJ3096": {
+    "diretoria": "MRL",
+    "empresa": "MRL"
+  },
+  "BLASRJ3097": {
+    "diretoria": "MRL",
+    "empresa": "MRL"
+  },
+  "BLASRJ3156": {
+    "diretoria": "MRL",
+    "empresa": "MRL"
+  },
+  "BLASRJ3187": {
+    "diretoria": "MRL",
+    "empresa": "MRL"
+  },
+  "BLASRJ3192": {
+    "diretoria": "MRL",
+    "empresa": "MRL"
+  },
+  "BLASRJ3394": {
+    "diretoria": "MRL",
+    "empresa": "MRL"
+  },
+  "BLASRO3091": {
+    "diretoria": "MRL",
+    "empresa": "MRL"
+  },
+  "MRVHAL3510": {
+    "diretoria": "LUGGO E NOVOS NEGOCIOS",
+    "empresa": "MRV"
+  },
+  "MRVHAL3511": {
+    "diretoria": "LUGGO E NOVOS NEGOCIOS",
+    "empresa": "MRV"
+  },
+  "MRVHBA3510": {
+    "diretoria": "LUGGO E NOVOS NEGOCIOS",
+    "empresa": "MRV"
+  },
+  "MRVHBA3511": {
+    "diretoria": "LUGGO E NOVOS NEGOCIOS",
+    "empresa": "MRV"
+  },
+  "MRVHBH3510": {
+    "diretoria": "LUGGO E NOVOS NEGOCIOS",
+    "empresa": "MRV"
+  },
+  "MRVHBH3511": {
+    "diretoria": "LUGGO E NOVOS NEGOCIOS",
+    "empresa": "MRV"
+  },
+  "MRVHBH3512": {
+    "diretoria": "LUGGO E NOVOS NEGOCIOS",
+    "empresa": "MRV"
+  },
+  "MRVHBH3513": {
+    "diretoria": "LUGGO E NOVOS NEGOCIOS",
+    "empresa": "MRV"
+  },
+  "MRVHBH3514": {
+    "diretoria": "LUGGO E NOVOS NEGOCIOS",
+    "empresa": "MRV"
+  },
+  "MRVHBH3525": {
+    "diretoria": "LUGGO E NOVOS NEGOCIOS",
+    "empresa": "MRV"
+  },
+  "MRVHCB3510": {
+    "diretoria": "LUGGO E NOVOS NEGOCIOS",
+    "empresa": "MRV"
+  },
+  "MRVHCB3511": {
+    "diretoria": "LUGGO E NOVOS NEGOCIOS",
+    "empresa": "MRV"
+  },
+  "MRVHCE3511": {
+    "diretoria": "LUGGO E NOVOS NEGOCIOS",
+    "empresa": "MRV"
+  },
+  "MRVHCP3510": {
+    "diretoria": "LUGGO E NOVOS NEGOCIOS",
+    "empresa": "MRV"
+  },
+  "MRVHCR3510": {
+    "diretoria": "LUGGO E NOVOS NEGOCIOS",
+    "empresa": "MRV"
+  },
+  "MRVHGO3510": {
+    "diretoria": "LUGGO E NOVOS NEGOCIOS",
+    "empresa": "MRV"
+  },
+  "MRVHGO3511": {
+    "diretoria": "LUGGO E NOVOS NEGOCIOS",
+    "empresa": "MRV"
+  },
+  "MRVHMN3511": {
+    "diretoria": "LUGGO E NOVOS NEGOCIOS",
+    "empresa": "MRV"
+  },
+  "MRVHMS3510": {
+    "diretoria": "LUGGO E NOVOS NEGOCIOS",
+    "empresa": "MRV"
+  },
+  "MRVHRN3511": {
+    "diretoria": "LUGGO E NOVOS NEGOCIOS",
+    "empresa": "MRV"
+  },
+  "MRVHBH3010": {
+    "diretoria": "PRESIDENTE",
+    "empresa": "MRV"
+  },
+  "MRVHBH3175": {
+    "diretoria": "PRESIDENTE",
+    "empresa": "MRV"
+  },
+  "MRVHBH3176": {
+    "diretoria": "PRESIDENTE",
+    "empresa": "MRV"
+  },
+  "MRVHBH3177": {
+    "diretoria": "PRESIDENTE",
+    "empresa": "MRV"
+  },
+  "MRVHBH3178": {
+    "diretoria": "PRESIDENTE",
+    "empresa": "MRV"
+  },
+  "MRVHBH3247": {
+    "diretoria": "PRESIDENTE",
+    "empresa": "MRV"
+  },
+  "MRVHBH3274": {
+    "diretoria": "PRESIDENTE",
+    "empresa": "MRV"
+  },
+  "MRVHBH3320": {
+    "diretoria": "PRESIDENTE",
+    "empresa": "MRV"
+  },
+  "MRVHBH3431": {
+    "diretoria": "PRESIDENTE",
+    "empresa": "MRV"
+  },
+  "MRVHBH3539": {
+    "diretoria": "PRESIDENTE",
+    "empresa": "MRV"
+  },
+  "MRVHCP3431": {
+    "diretoria": "PRESIDENTE",
+    "empresa": "MRV"
+  },
+  "MRVHSP3162": {
+    "diretoria": "PRESIDENTE",
+    "empresa": "MRV"
+  },
+  "MRVHSP3431": {
+    "diretoria": "PRESIDENTE",
+    "empresa": "MRV"
+  },
+  "PRIMBH2082": {
+    "diretoria": "PRIME",
+    "empresa": "PRIME"
+  },
+  "PRIMBH3002": {
+    "diretoria": "PRIME",
+    "empresa": "PRIME"
+  },
+  "PRIMBH3014": {
+    "diretoria": "PRIME",
+    "empresa": "PRIME"
+  },
+  "PRIMBH3026": {
+    "diretoria": "PRIME",
+    "empresa": "PRIME"
+  },
+  "PRIMBH3334": {
+    "diretoria": "PRIME",
+    "empresa": "PRIME"
+  },
+  "PRIMCB3023": {
+    "diretoria": "PRIME",
+    "empresa": "PRIME"
+  },
+  "PRIMCB3062": {
+    "diretoria": "PRIME",
+    "empresa": "PRIME"
+  },
+  "PRIMCB3080": {
+    "diretoria": "PRIME",
+    "empresa": "PRIME"
+  },
+  "PRIMCB3089": {
+    "diretoria": "PRIME",
+    "empresa": "PRIME"
+  },
+  "PRIMCB3091": {
+    "diretoria": "PRIME",
+    "empresa": "PRIME"
+  },
+  "PRIMCB3156": {
+    "diretoria": "PRIME",
+    "empresa": "PRIME"
+  },
+  "PRIMCB3161": {
+    "diretoria": "PRIME",
+    "empresa": "PRIME"
+  },
+  "PRIMCB3187": {
+    "diretoria": "PRIME",
+    "empresa": "PRIME"
+  },
+  "PRIMCB3192": {
+    "diretoria": "PRIME",
+    "empresa": "PRIME"
+  },
+  "PRIMDF3022": {
+    "diretoria": "PRIME",
+    "empresa": "PRIME"
+  },
+  "PRIMDF3023": {
+    "diretoria": "PRIME",
+    "empresa": "PRIME"
+  },
+  "PRIMDF3062": {
+    "diretoria": "PRIME",
+    "empresa": "PRIME"
+  },
+  "PRIMDF3080": {
+    "diretoria": "PRIME",
+    "empresa": "PRIME"
+  },
+  "PRIMDF3091": {
+    "diretoria": "PRIME",
+    "empresa": "PRIME"
+  },
+  "PRIMDF3156": {
+    "diretoria": "PRIME",
+    "empresa": "PRIME"
+  },
+  "PRIMDF3161": {
+    "diretoria": "PRIME",
+    "empresa": "PRIME"
+  },
+  "PRIMDF3192": {
+    "diretoria": "PRIME",
+    "empresa": "PRIME"
+  },
+  "PRIMDF3394": {
+    "diretoria": "PRIME",
+    "empresa": "PRIME"
+  },
+  "PRIMGO3023": {
+    "diretoria": "PRIME",
+    "empresa": "PRIME"
+  },
+  "PRIMGO3062": {
+    "diretoria": "PRIME",
+    "empresa": "PRIME"
+  },
+  "PRIMGO3080": {
+    "diretoria": "PRIME",
+    "empresa": "PRIME"
+  },
+  "PRIMGO3091": {
+    "diretoria": "PRIME",
+    "empresa": "PRIME"
+  },
+  "PRIMGO3153": {
+    "diretoria": "PRIME",
+    "empresa": "PRIME"
+  },
+  "PRIMGO3156": {
+    "diretoria": "PRIME",
+    "empresa": "PRIME"
+  },
+  "PRIMGO3161": {
+    "diretoria": "PRIME",
+    "empresa": "PRIME"
+  },
+  "PRIMGO3192": {
+    "diretoria": "PRIME",
+    "empresa": "PRIME"
+  },
+  "PRIMMS3022": {
+    "diretoria": "PRIME",
+    "empresa": "PRIME"
+  },
+  "PRIMMS3023": {
+    "diretoria": "PRIME",
+    "empresa": "PRIME"
+  },
+  "PRIMMS3062": {
+    "diretoria": "PRIME",
+    "empresa": "PRIME"
+  },
+  "PRIMMS3080": {
+    "diretoria": "PRIME",
+    "empresa": "PRIME"
+  },
+  "PRIMMS3091": {
+    "diretoria": "PRIME",
+    "empresa": "PRIME"
+  },
+  "PRIMMS3153": {
+    "diretoria": "PRIME",
+    "empresa": "PRIME"
+  },
+  "PRIMMS3156": {
+    "diretoria": "PRIME",
+    "empresa": "PRIME"
+  },
+  "PRIMMS3161": {
+    "diretoria": "PRIME",
+    "empresa": "PRIME"
+  },
+  "PRIMMS3192": {
+    "diretoria": "PRIME",
+    "empresa": "PRIME"
+  },
+  "PRIMTO3062": {
+    "diretoria": "PRIME",
+    "empresa": "PRIME"
+  },
+  "PRIMTO3080": {
+    "diretoria": "PRIME",
+    "empresa": "PRIME"
+  },
+  "PRIMTO3091": {
+    "diretoria": "PRIME",
+    "empresa": "PRIME"
+  },
+  "PRIMTO3156": {
+    "diretoria": "PRIME",
+    "empresa": "PRIME"
+  },
+  "PRIMTO3161": {
+    "diretoria": "PRIME",
+    "empresa": "PRIME"
+  },
+  "PRIMTO3192": {
+    "diretoria": "PRIME",
+    "empresa": "PRIME"
+  },
+  "MRVHBA3085": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHBA3140": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHBA3153": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHBA3288": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHBH1081": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHBH3075": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHBH3076": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHBH3082": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHBH3085": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHBH3086": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHBH3096": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHBH3140": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHBH3153": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHBH3209": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHBH3278": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHBH3284": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHBH3288": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHBH3332": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHBH3398": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHBH3404": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHBH3432": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHBH3453": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHBH3494": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHBH3516": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHBH3534": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHBH3541": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHBH3542": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHBH3543": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHCB3140": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHCB3288": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHCE3089": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHCE3140": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHCE3153": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHCE3288": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHCE3516": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHCP3085": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHCP3153": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHCP3288": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHCR3140": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHCR3153": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHCR3288": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHCR3516": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHDF3288": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHGO3140": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHGO3288": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHLD3089": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHMN3140": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHMN3153": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHMN3288": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHMR3288": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHMS3288": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHPB3140": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHPE3153": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHPE3288": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHPL3288": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHRE3140": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHRJ3153": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHRJ3288": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHRJ3332": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHRJ3516": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHRN3288": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHRP3140": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHRP3153": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHRP3288": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHRS3140": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHRS3288": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHRS3332": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHSE3153": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHSP3085": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHSP3140": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHSP3153": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHSP3288": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHSP3523": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHTM3153": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHTM3288": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "MRVHVT3288": {
+    "diretoria": "PRODUÇÃO",
+    "empresa": "MRV"
+  },
+  "A522CTBZ82": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "A572BHDC61": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "A576BHCC55": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "A592ALCD93": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "A595ALCD99": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "A596ALCE01": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "A597ALCE03": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "A661UBCH46": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "A666RSCH80": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "A699CPCJ20": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "A706SPCJ99": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "A723SJFH70": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "A740TMCM24": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "A750RSCN11": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "A798TMCQ74": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "A808BACS28": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "A809BACS30": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "A810BACW26": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "A811BACS34": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "A830RSCU06": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "A841PICU53": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "A851RSCV30": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "A941CPDB13": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "AC17SPCB34": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "AC63MSDF19": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "AC97VTDJ94": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "AD29SCDT96": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "AD31CPDU39": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "AD61PEED86": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "AE08SCET15": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "AE09SCET17": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "AE23CPEX14": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "AE36SPEY51": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "AE48VTFB42": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "AE52RPFB56": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "AE58RPFB68": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "AE64SPFC48": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "AE77CPFF52": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "AE81CPFF60": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "AF01SPFG63": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "AF03CPFG67": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "AF43SPFH89": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "AF44CPFH95": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "AF45CPFH97": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "AF50SPFI23": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "AF57RPFI83": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "AF58SPFJ10": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "AF60SPFJ16": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "AF69BHFJ74": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "AF71RPFK27": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "AF72SCFK29": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "AF76RPFL44": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "AF77RPFL50": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "AF80RPFM65": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "AF85BHFO74": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "AF93RPFQ33": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "AF98RPFT55": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "AG04CEFU67": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "AG05SPFV57": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "AG06SPFV59": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "AG07SPFX72": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "AG08SPFZ58": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "AG12CEGB15": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "AQ61BAFP43": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "CQ13CREI92": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "CQ22CREW57": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "CQ29CREZ28": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "CQ33CRFA83": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "DQ07SCFE44": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "DQ10SCFL71": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "DQ11SCFL73": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "DQ16SCFS60": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "DQ18SCFU38": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "E230RNBH24": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "E481RJCT18": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "E536TMCX49": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "E548VTDD25": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "E549VTDD23": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "E577CBDP18": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "E598CEDS29": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "E622CBEB00": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "EQ14GOEG21": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "EQ16MSEG33": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "EQ30CBEN16": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "EQ44DFEQ20": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "EQ48MSEQ94": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "EQ50GOER52": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "EQ51CBER64": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "EQ64GOEZ44": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "EQ67GOEZ50": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "EQ70DFFA49": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "EQ71CBFA73": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "EQ72GOFA75": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "FK02PAFP88": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "FK08LFFP94": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "FQ01RJEF26": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "FQ01RJFY27": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "FQ60RJFG00": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "FQ65RJFI31": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "FQ68JFFM35": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "FQ76RJFT64": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "FQ78RJGB64": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "FQ84RJGG79": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H003SPDE83": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H092RSDJ14": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H094RSDJ18": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H120PEDK38": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H133RSDK73": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H174TMDN25": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H191MNDO04": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H248PIDR97": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H259PIDR75": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H272CTDS63": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H290CEDT61": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H322PEDV20": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H349CTDX15": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H351SPDX24": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H356JPDX53": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H379CTDZ49": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H392MRDZ99": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H400MREA15": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H401MREA17": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H403SPEA21": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H404SPEA23": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H418BAEA68": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H421BAEA74": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H423BAEA78": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H427PIEB32": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H433BAEB65": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H433BAFV26": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H437PBEB98": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H439PBEC02": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H455LDEC57": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H456RSEC59": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H461PBEC72": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H469BHEC90": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H485BAED44": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H501BHEG31": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H504ALEG53": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H505RPEG57": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H521CREI19": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H525MNEI38": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H530RSEI62": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H534MNEI84": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H573PIEL36": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H577MREL85": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H594RSEO65": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H601LDEP17": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H605LDEP25": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H609LDEW07": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H611LDEQ25": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H623TMEQ88": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H624RSER00": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H627RSER14": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H635UBER69": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H638MRES75": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H639RSES79": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H646CEEV05": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H647CEEV17": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H649MREV53": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H651ALEW19": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H655SEEW39": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H656RNEW59": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H658LDEW67": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H682LDFB21": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H688ALFB83": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H690RNFC40": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H692MNFD36": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H694LDFF18": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H696MNFF22": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H698MNFF26": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H700MNFF30": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H702MNFF34": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H713BHFH16": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H714RSFH91": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H721ALFI65": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H722MNFI67": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H745RPFK23": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H746MNFK97": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H752MNFL54": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H754LDFL68": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H755MNFM57": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H756MNFM59": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H758MNFM83": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H759MNFM85": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H763SEFN02": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H764CEFN41": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H766CEFN56": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H768MRFN82": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H781ALFQ59": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H790SPFQ94": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H792SPFR00": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H794MIFR67": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H797BHFR78": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H798MIFS00": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H804SPFS75": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H807PEFT03": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H809SPFT57": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H812RSFT74": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H819CEFU35": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H843RNFX63": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H864CEFZ76": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H865CEFZ82": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H875RNGB21": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "H911CEGE39": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "HQ01SPEG76": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "HQ12CPEH44": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "HQ34CPER58": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "HQ35CPER66": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "HQ36CPEX28": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "HQ40CPEZ59": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "HQ41CPEZ66": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "HQ53CPEZ90": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "HQ61CPFA26": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "HQ69CPFA61": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "HQ93CPFD38": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "IQ04RPEI24": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "IQ31RPEM71": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "IQ35RPEM79": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "IQ37RPEN47": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "IQ45RPEP54": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "IQ46RPEP56": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "IQ79RPEW17": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "IQ94RPEY17": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "IQ95RPEY67": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "LQ05BHEP87": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "LQ07BHEV09": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MC00BH3030": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MQ01SPEN18": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MQ32SPER95": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MQ34SPES61": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MQ35SPES77": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MQ36SPET65": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MQ41SPET96": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MQ44SPEU04": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MQ48SPEU14": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MQ51SPEU20": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MQ67SPEU63": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MQ68SPEU65": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MQ86SPEV82": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MQ92SPEX89": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MQ95SPEY34": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MQ99SPEY49": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHAL3080": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHAL3156": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHAL3183": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHAL3187": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHAL3192": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHBA3080": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHBA3156": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHBA3183": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHBA3187": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHBA3192": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHBA3199": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHBA3319": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHBA3329": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHBA3410": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHBA3485": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHBA3501": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHBA3522": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHBH3037": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHBH3080": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHBH3098": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHBH3154": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHBH3156": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHBH3159": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHBH3183": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHBH3187": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHBH3191": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHBH3192": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHBH3199": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHBH3292": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHBH3303": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHBH3319": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHBH3328": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHBH3329": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHBH3330": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHBH3372": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHBH3410": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHBH3436": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHBH3448": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHBH3454": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHBH3457": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHBH3490": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHBH3492": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHBH3493": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHBH3501": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHBH3515": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHBH3522": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHBR3156": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHBR3187": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHBR3192": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHBR3410": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHCB3183": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHCE3080": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHCE3156": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHCE3183": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHCE3187": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHCE3192": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHCE3199": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHCE3319": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHCE3329": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHCE3348": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHCE3410": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHCE3448": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHCE3522": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHCEFU73": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHCM3195": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHCP3080": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHCP3156": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHCP3183": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHCP3187": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHCP3192": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHCP3319": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHCP3329": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHCP3395": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHCP3407": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHCP3501": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHCR3080": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHCR3156": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHCR3183": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHCR3187": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHCR3192": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHCR3195": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHCR3199": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHCR3292": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHCR3329": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHCT3156": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHDF3199": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHDF3329": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHDF3522": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHGO3183": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHGO3348": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHGO3522": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHJP3156": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHJP3183": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHJP3187": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHJP3192": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHJP3522": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHLD3080": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHLD3156": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHLD3183": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHLD3192": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHMA3156": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHMN3080": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHMN3156": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHMN3183": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHMN3192": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHMN3195": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHMR3080": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHMR3156": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHMR3183": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHMR3187": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHMR3192": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHPB3080": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHPB3156": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHPB3183": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHPB3192": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHPE3080": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHPE3156": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHPE3183": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHPE3192": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHPE3319": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHPI3156": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHPI3183": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHPI3192": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHPL3187": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHRJ3154": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHRJ3156": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHRJ3159": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHRJ3183": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHRJ3187": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHRJ3199": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHRJ3319": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHRJ3329": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHRJ3522": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHRN3156": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHRN3183": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHRN3192": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHRN3372": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHRP3080": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHRP3156": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHRP3192": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHRP3199": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHRP3275": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHRP3329": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHRP3348": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHRS3080": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHRS3156": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHRS3159": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHRS3183": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHRS3187": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHRS3192": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHRS3199": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHRS3319": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHRS3329": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHRS3338": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHRS3348": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHRS3522": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHSC3080": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHSC3156": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHSC3192": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHSC3522": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHSE3156": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHSE3187": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHSE3192": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHSJ3156": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHSJ3187": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHSP3037": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHSP3080": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHSP3156": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHSP3183": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHSP3187": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHSP3192": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHSP3199": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHSP3292": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHSP3319": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHSP3329": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHSP3372": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHSP3410": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHSP3522": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHSR3156": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHSU3195": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHTM3080": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHTM3156": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHTM3183": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHTM3187": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHTM3192": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHUB3156": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHVT3156": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHVT3183": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHVT3192": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "NQ03UBFY34": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "OQ08GOFF08": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "OQ10CBFF12": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "OQ25CBFN10": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "OQ47CBGA03": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "PQ08VTFJ91": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "PQ11VTFJ97": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "PQ14VTFN47": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "PQ15VVFR51": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "S282GODB07": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "S283GODA94": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "S304GODB99": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "S311MSDC39": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "S315MSDC28": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "S319RJDC49": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "S337BHEL03": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "S348GODL45": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "S377BHDR31": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "S391GODS07": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "S405DFEE58": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "S410GOEF74": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "S415RJEM58": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "S429BHEY96": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "S431DFFJ06": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "S432DFFM53": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "SQ10CRFT90": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "TQ05PLFQ12": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "VQ11CPFO57": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "VQ12CPFP13": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "VQ22CPFU07": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "ZQ22RPFT21": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "ZQ67RPGF74": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHAL3089": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHAL3091": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHAL3161": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHBA3089": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHBA3091": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHBA3160": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHBA3161": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHBH3089": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHBH3091": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHBH3160": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHBH3161": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHBH3535": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHBR3091": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHBR3161": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHCE3091": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHCE3160": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHCE3161": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHCP3089": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHCP3091": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHCP3161": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHCR3089": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHCR3091": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHCR3161": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHGO3161": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHJP3091": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHJP3161": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHLD3091": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHLD3161": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHMA3161": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHMI3091": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHMI3161": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHMN3089": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHMN3091": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHMN3161": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHMR3091": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHMR3161": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHMS3161": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHPB3091": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHPB3161": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHPE3091": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHPE3160": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHPE3161": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHPI3091": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHPI3161": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHRJ3161": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHRN3091": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHRN3161": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHRP3089": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHRP3091": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHRP3161": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHRS3089": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHRS3091": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHRS3161": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHSC3091": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHSC3161": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHSE3091": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHSE3161": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHSJ3089": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHSJ3091": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHSJ3161": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHSP3091": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHSP3161": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHSR3091": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHTM3091": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHTM3160": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHTM3161": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHUB3091": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHUB3161": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHVT3091": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHVT3160": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHVT3161": {
+    "diretoria": "OBRA",
+    "empresa": "MRV"
+  },
+  "MRVHBH0007": {
+    "diretoria": "RELAÇÕES INSTITUCIONAIS",
+    "empresa": "MRV"
+  },
+  "MRVHBH3259": {
+    "diretoria": "RELAÇÕES INSTITUCIONAIS",
+    "empresa": "MRV"
+  },
+  "MRVHSP0007": {
+    "diretoria": "RELAÇÕES INSTITUCIONAIS",
+    "empresa": "MRV"
+  },
+  "MRVHSP3259": {
+    "diretoria": "RELAÇÕES INSTITUCIONAIS",
+    "empresa": "MRV"
+  },
+  "HS00BH3356": {
+    "diretoria": "RESIA",
+    "empresa": "RESIA"
+  },
+  "HS00BH3357": {
+    "diretoria": "RESIA",
+    "empresa": "RESIA"
+  },
+  "HS00BH3359": {
+    "diretoria": "RESIA",
+    "empresa": "RESIA"
+  },
+  "HS00BH3361": {
+    "diretoria": "RESIA",
+    "empresa": "RESIA"
+  },
+  "HS00BH3368": {
+    "diretoria": "RESIA",
+    "empresa": "RESIA"
+  },
+  "E628CP3104": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "E630RP3104": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "E636CB3080": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "E636CB3104": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "E637UB3104": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "E637UBGG18": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "E643CP3104": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "E659MM3104": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "E659MMFN20": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "E665CPFT39": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "E671CP3104": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "E672CPFX38": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "E681MA3104": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "E681MAGB16": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "E682IUFO26": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "E685RP3104": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "E685RPFZ91": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "E695BH3104": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "E695BHFO61": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "UB01RJ3091": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "UB04RP3091": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "UB04RP3104": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "UB07BA3104": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "URBABH0001": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "URBABH0002": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "URBABH3001": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "URBABH3004": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "URBABH3016": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "URBABH3023": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "URBABH3028": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "URBABH3067": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "URBABH3096": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "URBABH3102": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "URBABH3104": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "URBABH3170": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "URBABH3296": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "URBABH3297": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "URBABH3393": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "URBABH3411": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "URBABH3429": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "URBABH3441": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "URBABH3445": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "URBABH3470": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "URBABH3503": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "URBACB3170": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "URBACP3067": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "URBACP3085": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "URBACP3091": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "URBACP3096": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "URBACP3098": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "URBACP3170": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "URBACP3411": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "URBACP3465": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "URBACP3466": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "URBACP3467": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "URBACP3470": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "URBACP3506": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "URBACP3524": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "URBAGO3170": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "URBARJ3016": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "URBARJ3104": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "URBARP3080": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "URBARP3082": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "URBARP3096": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "URBARP3170": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "URBARP3467": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "URBARP3470": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "Z015RP3104": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "Z015RPGA45": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  },
+  "Z016RPGG07": {
+    "diretoria": "URBA",
+    "empresa": "URBA"
+  }
+}
